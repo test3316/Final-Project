@@ -66,7 +66,6 @@ const UniversityList = () => {
                 </div>
               </div>
             ))}
-          {console.log(countryFetch)}
         </div>
       </div>
     </>
